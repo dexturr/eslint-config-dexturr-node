@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-dexturr-node",
+  "version": "0.0.1",
+  "description": "My standrd eslint node config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests'"
+  },
+  "keywords": [
+    "eslint",
+    "standard",
+    "config",
+    "node",
+    "lint",
+    "eslintconfig"
+  ],
+  "author": "Dexter Edwards",
+  "license": "ISC"
+}
